@@ -2,6 +2,10 @@
 
 Extract, transform, and load a dataset using PySpark, pgAdmin, and an AWS RDS instance.
 
+Review Dataset (https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
+Books Dataset (https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz)
+
+
 ## Overview of the analysis: 
 
 As a startup with a catalog of products that are ready to hit the market, it is crutial to understand which programs are benifiting the buisness and which are not. In order to optimize marketing efforts, we analyzed if the paid Amazon Vine program - a program which provides consumers with to recieve products for review - is worth the investment by looking at a dataset of reviewed books.
